@@ -1,0 +1,105 @@
+.navigation {
+    display: inline-block;
+    padding-left: 88.9px;
+    vertical-align: top;
+}
+.li-list {
+    display: inline-block;
+    padding-left: 49px;
+    padding-top: 37px;
+}
+.logo1 {
+    padding-left: 95px;
+    padding-top: 25px;
+    vertical-align: top;
+}
+.headeri {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 99999;
+    background: white;
+}
+.baner-div {
+    width: 100%;
+    position: relative;
+}
+.titles {
+    position: absolute;
+    top: 213px;
+    left: 35%;
+}
+.baner-section {
+    padding-top: 82px;
+}
+.baneri1 {
+    width: 100%;
+}
+.bigtitle {
+    font-size: 78px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: white;
+}
+.smalltitle {
+    padding-top: 36px;
+    font-size: 18px;
+    color: white;
+    font-family: 'Raleway-semibold';
+}
+.second-block {
+    margin-top: 75px;
+}
+.second-block-div {
+   width: 1172px;
+   padding-left: 94px;
+}
+.title-block {
+    display: inline-block;
+    width: 241px;
+    height: 241px;
+    vertical-align: top;
+}
+.second-title {
+    font-size: 16px;
+    color: #8D8D8D;
+    font-family: 'Raleway-semibold';
+}
+.second-title2 {
+    font-size: 26px;
+    font-family: 'Raleway-semibold';
+    padding-top: 6px;
+}
+.second-title-txt {
+    font-size: 16px;
+    color: #8D8D8D;
+    font-family: 'Raleway-medium';
+    padding-top: 40px;
+}
+.block-1 {
+    display: inline-block;
+    width: 269px;
+    height: 327px;
+    padding-left: 59px;
+    position: relative;
+    vertical-align: top;
+}
+.text-1 {
+    font-size: 16px;
+    font-family: 'Raleway-medium';
+    color: #8D8D8D;
+    padding-top: 50px;
+    text-align: justify;
+    width: 267px;
+}
+.child-div {
+    position: absolute;
+    width: 150px;
+    height: 20px;
+    top: 0;
+    right: 0;
+}
+.child-span {
+    font-size: 18px;
+    font-family: 'Raleway-semibold';
+}
